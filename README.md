@@ -2,9 +2,9 @@
 
 Display a simple and bare minimum social sharing icons anywhere using a shortcode.
 
-![Screenshot](https://raw.githubusercontent.com/meirroth/tiny-share/main/screenshot.jpg)
+<img width="400" src="./screenshot.jpg">
 
-### Features And Options:
+### Features and Options:
 
 - Simple, Clean and Elegent Icons.
 - Shortcode can be used anywhere, and can integrated with any theme easily.
